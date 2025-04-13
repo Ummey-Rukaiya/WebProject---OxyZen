@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+        <title>Plant Care Reminder</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    </head>
+    <body>
+        <section id="sub-header">
+            <nav>
+                <a href="index.html"></a>
+                <h1 class="logo">OxyZen</h1>
+                <div class="nav-link" id="navLink">
+                    <i class="fa fa-times" onclick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="about.html">ABOUT</a></li>
+                        <li><a href="feature.html">FEATURE</a></li>
+                        <li><a href="contact.html">CONTACT</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" onclick="showMenu()"></i>
+            </nav>
+
+            <h1> Our Features</h1>
+            
+        </section>
+
+        <!--Feature page-->
+
+        <section id="features-page">
+            <h1><br><br>Features</h1>
+            <p>The green thumb you always wanted—personalized plant care at your fingertips!</p>
+            <div class="feature-row">
+                <div class="feature-col">
+                    <img src="images/img-1.png">
+                    <h3>Plant Info and Care Tips</h3>
+                    <p>Get your plant care questions answered! Learn more about your plants and find detailed plant care information on watering, fertilizing, and more.</p>
+                </div>
+                <div class="feature-col">
+                    <img src="images/img-2.png">
+                    <h3>Care Reminders</h3>
+                    <p>Forget to water your plants on time? Not anymore! Set up plant care reminders and get notified when it's time to water or fertilize your plant.</p>
+                </div>
+                <div class="feature-col">
+                    <img src="images/img-3.png">
+                    <h3>Plant Disease Identification</h3>
+                    <p>Not sure why your plant is suffering? Diagnose your plant, and learn how to prevent and treat plant diseases.</p>
+                </div>
+                <div class="feature-col">
+                    <img src="images/img-4.png">
+                    <h3>Notes</h3>
+                    <p>Journal the life of your plants – monitor their growth and development, celebrate the first blooms, describe your plant care routine, or attach photos to see how your plant has changed.</p>
+                </div>
+            </div>
+<!--OPTIONAL-->
+            <div class="feature-btn">
+                <div class="line">
+                    <span class="line-1"></span><br>
+                    <span class="line-2"></span><br>
+                    <span class="line-3"></span>
+                </div>
+                <a href="" class="hero-btn red-btn">EXPLORE NOW</a>
+                <!--<button class="common-btn">Learn More</button>-->
+
+            </div>
+        </section>
+
+
+        <section class="comments">
+            <h1>
+                What Our User Says
+            </h1>
+            <p><br><br></p>
+
+            <div class="row">
+                <div class="comment-col">
+                    <i class="fa fa-user-circle"></i>
+                    <div>
+                        <p>Wish I had found this sooner! No more guessing when to water or fertilize.</p>
+                        <h3>Sarah Yousuf</h3>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                    </div>
+
+                </div>
+
+                <div class="comment-col">
+                    <i class="fa fa-user-circle"></i>
+                    <div>
+                        <p>This website is a lifesaver! I used to forget watering schedules, but now my plants are thriving!</p>
+                        <h3>Tasmi Muhtazi</h3>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-solid fa-star-half"></i>
+                    </div>
+
+                </div>
+            </div>
+
+            <!--<div class="feedback-row">
+                <div class="feedback-col">
+                    <div class="comment-box">
+                        <h3>Give Us Your Feedback!</h3>
+                        <form class="comment-form">
+                            <input type="text" placeholder="Enter Name">
+                            <input type="email" placeholder="Enter Email">
+                            <textarea rows="5" placeholder="Your Feedback"></textarea>
+                            <button type="submit" class="hero-btn">POST FEEDBACK</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="feedback-col">
+                    <img src="images/feature.png">
+                </div>
+            </div>-->
+
+            <section class="feedback">
+                <div class="feedback-row">
+                    <div class="feedback-col">
+                        <div class="comment-box">
+                            <h3>Give Us Your Feedback!</h3>
+                            <form action="https://api.web3forms.com/submit" method="POST" class="comment-form">
+                                <input type="hidden" name="access_key" value="f710d604-a001-4062-b973-14966db436d3">
+                                <input type="text" name="name" placeholder="Enter Name" required>
+                                <input type="email" name="email" placeholder="Enter Email" required>
+                                <textarea rows="5" name="message" placeholder="Your Feedback" required></textarea>
+                                <button type="submit" class="hero-btn">POST FEEDBACK</button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="feedback-col">
+                        <img src="images/feature.png">
+                    </div>
+                </div>
+
+            </section>
+
+
+        </section>
+
+
+
+
+
+    <!--<h2>Nurture your plants, and they will nurture your soul.</h2>-->
+                
+
+        
+<!--Footer-->
+
+<section id="footer">
+    <div class="container footer-row">
+        <hr>
+        <div class="footer-left-col">
+            <div class="footer-links">
+                <div class="link-title">
+                    <h4>Product</h4>
+                    <small>Our Plan</small><br>
+                </div>
+                <div class="link-title">
+                    <h4>About Us</h4>
+                    <small>FAQs</small><br>
+                </div>
+                <div class="link-title">
+                    <h4>Support</h4>
+                    <small>Features</small><br>
+                    <small>Contact Us</small>
+                </div>
+            </div>
+        </div>
+        <div class="footer-right-col">
+            <div class="footer-info">
+                <div class="copyright-text">
+                    <small>support@OxyZen.com</small>
+                    <small>copyright 2025 OxyZen</small>
+                </div>
+                <div class="footer-logo">
+                    <img src="images/logo.png">
+                    <button class="common-btn">English</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Social-icons-->
+
+<div class="social-icons">
+    <img src="images/facebook.png">
+    <img src="images/instagram.png">
+    <img src="images/twitter.png">
+    <img src="images/linkedin.png">
+</div>
+
+<!--Javascript for Toggle menu-->
+
+        <script>
+            var navLinks = document.getElementById("navLinks");
+            
+            function showMenu(){
+                navLinks.style.right="0";
+            }
+            function hideMenu(){
+                navLinks.style.right="-200px";
+            }
+
+        </script>
+
+    </body>
+
+</html>

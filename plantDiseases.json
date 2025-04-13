@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "name": "Powdery Mildew",
+      "image": "/assets/diseases/powdery-mildew.webp",
+      "symptoms": "White powdery spots on leaves and stems.",
+      "treatment": "Use neem oil or a fungicide.",
+      "precaution": "Ensure proper air circulation and avoid overhead watering."
+    },
+    {
+      "id": 2,
+      "name": "Root Rot",
+      "image": "/assets/diseases/root-rot.jpg",
+      "symptoms": "Wilting leaves, mushy roots, yellowing.",
+      "treatment": "Remove affected roots and repot with fresh soil.",
+      "precaution": "Avoid overwatering and ensure proper drainage."
+    },
+    {
+        "id": 3,
+        "name": "Leaf Spot",
+        "image": "/assets/diseases/leaf-spot.jpg",
+        "symptoms": "Dark, water-soaked spots on leaves that may enlarge and turn yellow.",
+        "treatment": "Spray with insecticidal soap or neem oil; keep humidity high.",
+        "precaution": "Water at the base and avoid wetting leaves."
+    },
+    {
+      "id": 4,
+      "name": "Aphids",
+      "image": "/assets/diseases/aphids.webp",
+      "symptoms": "Sticky leaves, curled foliage, tiny green/black bugs.",
+      "treatment": "Spray with insecticidal soap or neem oil.",
+      "precaution": "Inspect plants regularly and isolate new plants."
+    },
+    {
+      "id": 5,
+      "name": "Spider Mites",
+      "image": "/assets/diseases/spider_mites.jpg",
+      "symptoms": "Yellow speckles, fine webs on leaves.",
+      "treatment": "Spray with water, use neem oil or insecticidal soap.",
+      "precaution": "Increase humidity and inspect often."
+    },
+    {
+      "id": 6,
+      "name": "Mealybugs",
+      "image": "/assets/diseases/mealybugs.jpg",
+      "symptoms": "White cottony spots on leaves and stems.",
+      "treatment": "Wipe with alcohol-soaked cotton or spray neem oil.",
+      "precaution": "Isolate affected plants and keep environment clean."
+    },
+    {
+      "id": 7,
+      "name": "Scale Insects",
+      "image": "/assets/diseases/scale.jpg",
+      "symptoms": "Brown/black shell-like bumps on stems and leaves.",
+      "treatment": "Scrape off gently, apply horticultural oil.",
+      "precaution": "Regularly inspect stems and undersides of leaves."
+    },
+    {
+      "id": 8,
+      "name": "Botrytis (Gray Mold)",
+      "image": "/assets/diseases/botrytis.webp",
+      "symptoms": "Gray fuzzy mold on flowers, leaves, and stems.",
+      "treatment": "Remove infected parts, use a fungicide.",
+      "precaution": "Avoid overcrowding and ensure good airflow."
+    },
+    {
+      "id": 9,
+      "name": "Bacterial Wilt",
+      "image": "/assets/diseases/bacterial_wilt.webp",
+      "symptoms": "Sudden wilting, yellowing leaves, and stem collapse.",
+      "treatment": "Remove and destroy infected plants.",
+      "precaution": "Use disease-free soil and practice crop rotation."
+    },
+    {
+      "id": 10,
+      "name": "Fungal Leaf Blight",
+      "image": "/assets/diseases/leaf_blight.jpg",
+      "symptoms": "Dark spots that merge and kill leaf areas.",
+      "treatment": "Apply copper-based fungicide.",
+      "precaution": "Keep foliage dry and provide spacing."
+    },
+    {
+      "id": 11,
+      "name": "Rust",
+      "image": "/assets/diseases/rust.webp",
+      "symptoms": "Orange-red spots under leaves.",
+      "treatment": "Remove affected leaves and apply fungicide.",
+      "precaution": "Avoid wetting leaves and maintain airflow."
+    },
+    {
+      "id": 12,
+      "name": "Anthracnose",
+      "image": "/assets/diseases/anthracnose.jpg",
+      "symptoms": "Dark, sunken lesions on leaves or stems.",
+      "treatment": "Use copper-based fungicides and remove debris.",
+      "precaution": "Prune properly and avoid overhead watering."
+    },
+    {
+      "id": 13,
+      "name": "Leaf Curl",
+      "image": "/assets/diseases/leaf_curl.jpeg",
+      "symptoms": "Distorted, curled leaves with red or yellow color.",
+      "treatment": "Apply fungicide early in the season.",
+      "precaution": "Use resistant varieties and remove infected leaves."
+    },
+    {
+      "id": 14,
+      "name": "Downy Mildew",
+      "image": "/assets/diseases/downy_mildew.webp",
+      "symptoms": "Yellow or pale green patches on upper leaf surfaces.",
+      "treatment": "Apply fungicides and improve air circulation.",
+      "precaution": "Water in the morning to allow drying time."
+    },
+    {
+      "id": 15,
+      "name": "Fusarium Wilt",
+      "image": "/assets/diseases/fusarium_wilt.webp",
+      "symptoms": "Yellowing and wilting of leaves starting at the base.",
+      "treatment": "Destroy infected plants and use soil solarization.",
+      "precaution": "Use disease-free seeds and resistant plants."
+    },
+    {
+      "id": 16,
+      "name": "Whiteflies",
+      "image": "/assets/diseases/whiteflies.jpg",
+      "symptoms": "Tiny white insects under leaves, yellowing foliage.",
+      "treatment": "Spray with neem oil or use sticky traps.",
+      "precaution": "Use reflective mulch and monitor regularly."
+    },
+    {
+        "id": 17,
+        "name": "Botrytis (Gray Mold)",
+        "image": "/assets/diseases/gray-mold.jpg",
+        "symptoms": "Gray, fuzzy mold on leaves, flowers, or fruits; browning and decay in humid environments.",
+        "treatment": "Remove and discard infected parts. Increase air circulation. Apply fungicides if needed.",
+        "precaution": "Avoid overhead watering, provide proper spacing between plants, and prune regularly to increase airflow."
+      },
+      {
+        "id": 18,
+        "name": "Damping off",
+        "image": "/assets/diseases/damping-off.jpg",
+        "symptoms": "Leaves become puckered and curled; may turn red or yellow and fall off prematurely.",
+        "treatment": "Apply copper-based fungicides early in the season. Remove and destroy affected leaves.",
+        "precaution": "Use disease-resistant plant varieties, avoid watering foliage, and apply fungicides preventively in spring."
+      }
+
+  ]
+  

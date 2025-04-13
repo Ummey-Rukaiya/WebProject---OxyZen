@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+        <title>Plant Care Reminder</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    </head>
+    <body>
+        <section id="sub-header">
+            <nav>
+                <a href="index.html"></a>
+                <h1 class="logo">OxyZen</h1>
+                <div class="nav-link" id="navLink">
+                    <i class="fa fa-times" onclick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="about.html">ABOUT</a></li>
+                        <li><a href="feature.html">FEATURE</a></li>
+                        <li><a href="contact.html">CONTACT</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" onclick="showMenu()"></i>
+            </nav>
+
+            <h1>About Us</h1>
+            
+        </section>
+
+        <section class="about-us">
+            <div class="row">
+                <div class="about-col">
+                    <h1>Growing Together with Plant Care Reminder<br><br></h1>
+                    <p>Welcome to Plant Care Reminder, your go-to platform for keeping your plants healthy and thriving! We understand that caring for plants can be challenging, especially with a busy schedule. Our website helps you set personalized reminders for watering, fertilizing, and other essential plant care tasks. Whether you're a beginner or a seasoned gardener, we make plant care simple and hassle-free. Join us in creating a greener, healthier space—because happy plants make happy homes! 🌿✨<br><br></p>
+                    <a href="home_learn more btn.html" class="hero-btn red-btn">EXPLORE NOW</a>
+                </div>
+                <div class="about-col">
+                    <img src="images/about.avif">
+                </div>
+            </div>
+
+        </section>
+
+
+        <!----about---->
+
+        <!--<section id="about">
+            <div class="about-left-col">
+                <img src="images/background2.avif">
+            </div>
+            
+            <div class="about-right-col">
+                <div class="about-text">
+                    <h1>About Us</h1>
+                    <span class="square"></span>
+                    <p>Welcome to OxyZen – Your Partner in Plant Care<br>
+                        At OxyZen, we make plant care simple and stress-free. Our Plant Care Reminder platform helps you stay on top of watering, fertilizing, and other essential tasks with timely alerts and personalized tips.<br>
+                        Whether you’re a beginner or a plant enthusiast, we’re here to help your green companions thrive. With a passion for sustainability, our mission is to make plant care effortless while promoting a healthier, greener lifestyle.<br>
+                        🌿 Grow with OxyZen – Because Every Plant Matters! 🌿</p><br><br>
+                        <div class="line">
+                            <span class="line-1"></span><br>
+                            <span class="line-2"></span><br>
+                            <span class="line-3"></span>
+                        </div>
+
+                        <h2>Nurture your plants, and they will nurture your soul.</h2>
+                </div>
+            </div>
+        </section>-->
+
+        <!--features-->
+
+        
+
+        <!--Cooments-->
+
+        
+<!--Footer-->
+
+<section id="footer">
+    <div class="container footer-row">
+        <hr>
+        <div class="footer-left-col">
+            <div class="footer-links">
+                <div class="link-title">
+                    <h4>Product</h4>
+                    <small>Our Plan</small><br>
+                </div>
+                <div class="link-title">
+                    <h4>About Us</h4>
+                    <small>FAQs</small><br>
+                </div>
+                <div class="link-title">
+                    <h4>Support</h4>
+                    <small>Features</small><br>
+                    <small>Contact Us</small>
+                </div>
+            </div>
+        </div>
+        <div class="footer-right-col">
+            <div class="footer-info">
+                <div class="copyright-text">
+                    <small>support@OxyZen.com</small>
+                    <small>copyright 2025 OxyZen</small>
+                </div>
+                <div class="footer-logo">
+                    <img src="images/logo.png">
+                    <button class="common-btn">English</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--Social-icons-->
+
+<div class="social-icons">
+    <img src="images/facebook.png">
+    <img src="images/instagram.png">
+    <img src="images/twitter.png">
+    <img src="images/linkedin.png">
+</div>
+
+<!--Javascript for Toggle menu-->
+
+        <script>
+            var navLinks = document.getElementById("navLinks");
+            
+            function showMenu(){
+                navLinks.style.right="0";
+            }
+            function hideMenu(){
+                navLinks.style.right="-200px";
+            }
+
+        </script>
+
+    </body>
+
+</html>

@@ -1,0 +1,1198 @@
+[
+    {
+      "id": 1,
+      "name": "Golden Pothos",
+      "image": "/assets/Golden_Pothos.webp",
+      "tags": ["Fast grower", "Survivor"],
+      "about": "Feng shui experts say placing golden pothos in sharp corners or angles in your home can reduce anxiety and stress. 😌 A NASA/ALCA study on the use of common plants for indoor air purification also labeled golden pothos—along with Philodendron and spider plants—as the most effective in removing formaldehyde from the air. 💨",
+        "taxonomy": {
+            "scientificName": "Epipremnum aureum",
+            "genus": "Epipremnum",
+            "family": "Araceae",
+            "order": "Alismatales"
+        },
+        "alsoKnownAs": [
+            "Devil's Ivy, Ceylon Creeper, Hunter's Robe, Ivy Arum, Money Plant, Silver Vine, Solomon Islands Ivy, Taro Vine, Devil's Vine, Centipede Tongavine, Variegated Neon Pothos, Pothos 'Scrambled Egg' sport, Giant Hawaiian Pothos and Lizard Queen Pothos"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Golden Pothos needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 6 feet from a south-facing window to ensure it receives enough light to survive 💪.",
+                "tolerance": "Golden Pothos can tolerate being far from a window and light source."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Golden Pothos after it doubles in size or once a year—whichever comes first."
+            }
+        } 
+    },
+    {
+      "id": 2,
+      "name": "Snake Plant",
+      "image": "/assets/Snake_Plant.webp",
+      "tags": ["Survivor", "Blooms easily", "Easy to propagate"],
+      "about": "Records of Dracaena fossils have been found in Europe and North Africa, near the site of the Tethys Ocean, which existed 252 to 66 million years ago. More recently, snake plant leaves and stems have been used to treat fever, pain, bleeding, and inflammation throughout many cultures in Africa and India. 🤒",
+        "taxonomy": {
+            "scientificName": "Dracaena trifasciata",
+            "genus": "Dracaena",
+            "family": "Asparagaceae",
+            "order": "Asparagales"
+        },
+        "alsoKnownAs": [
+            "Mother-in-law's Tongue, Viper's Bowstring Hemp, Dracaena Star Canyon Granite, Sansevieria trifasciata, Sansevieria jacquinii and Ghost Snake Plant"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Snake Plant needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 6 feet from a south-facing window to ensure it receives enough light to survive 💪.",
+                "tolerance": "Snake Plant can tolerate being far from a window and light source."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Snake Plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+      "id": 3,
+      "name": "Aloe Vera",
+      "image": "/assets/Aloe_vera.webp",
+      "tags": ["Easy to propagate"],
+      "about": "Sunburnt folks around the world turn to Aloe to soothe their skin, but did you know humans have been using Aloe for almost 4,000 years? 🤯 Beyond sunburns, Aloe vera gel is known for soothing a variety of ailments such as wounds, skin infections, hair loss, eczema, and more. Aloe was known worldwide for its healing properties and became a skin care staple across ancient cultures in Egypt, Greece, Rome, Babylonia, and China. 🧴 Aloe is a sun-loving plant that evolved in the deserts of the Arabian peninsula. They’ve developed many clever tricks that help protect them from the harsh rays of the sun, many of which help soothe us as well! 😎",
+        "taxonomy": {
+            "scientificName": "Aloe vera",
+            "genus": "Aloe",
+            "family": "Asphodelaceae",
+            "order": "Asparagales"
+        },
+        "alsoKnownAs": [
+            "Barbados Aloe, Burn Aloe, Coral Fire, True Aloe and Aloe vera 'hedgehog'"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Aloe vera needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Aloe vera love being close to bright, sunny windows 😎. Aloe vera does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Aloe vera after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Monstera",
+        "image": "/assets/Monstera.webp",
+        "tags": ["Large, lush leaves", "Fast grower"],
+        "about": "Monstera deliciosa is a species of flowering plant native to the tropical rainforests of southern Mexico down to Colombia. Both the root and leaf have a long history of use in traditional medicine. In Mexico, a leaf or root infusion is taken daily to relieve arthritis. In Martinique, the root is used in remedies for snakebites. 🤒 The holes in Monstera leaves let water drip close to the roots, and they absorb the scattered beams of sunlight that make it down through the forest canopy. Their fruit also tastes like a mix of pineapple and banana! 🍍🍌",
+        "taxonomy": {
+            "scientificName": "Monstera deliciosa",
+            "genus": "Monstera",
+            "family": "Araceae",
+            "order": "Alismatales"
+        },
+        "alsoKnownAs": [
+            "Swiss Cheese Plant and Philodendron Monstera"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Monstera needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Monstera may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Monstera after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Spider Plant",
+        "image": "/assets/Spider_plant.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "Spider plants are an incredibly popular houseplant known for their ability to grow plantlets along their stems. These plantlets can be removed and grown to create new plants! Spider plants are used as a charm of protection by the Nguni people of South Africa, who dip the roots of spider plants in water to make a tea for pregnant mothers. 🫖",
+        "taxonomy": {
+            "scientificName": "Chlorophytum comosum",
+            "genus": "Chlorophytum",
+            "family": "Asparagaceae",
+            "order": "Asparagales"
+        },
+        "alsoKnownAs": [
+            "Spider Ivy, St. Bernard's Lily, Ribbon Plant, Airplane Plant, Variegated Bonnie Spider Plant, Chlorophytum zebrina, Spider-less Plant and reverse spider plant"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Spider Plant needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 6 feet from a south-facing window to ensure it receives enough light to survive 💪.",
+                "tolerance": "Spider Plant can tolerate being far from a window and light source."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Spider Plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Peace Lily",
+        "image": "/assets/Peace_lily.webp",
+        "tags": ["Large, lush leaves", "Survivor"],
+        "about": "The peace lily is a popular, elegant plant and not actually a lily at all! In fact, they’re more closely related to other houseplants like pothos and Monstera than actual lilies. The white ‘flowers’ are also not flowers, but specialized leaves that protect the tiny blossoms on the stalk in the center. Their ‘flowers’ may last as long as two months and they will continue to rebloom over time in the right conditions. ☮️",
+        "taxonomy": {
+            "scientificName": "Spathiphyllum wallisii",
+            "genus": "Spathiphyllum",
+            "family": "Araceae",
+            "order": "Alismatales"
+        },
+        
+        "care": {
+            "water": {
+                "frequency": "Peace Lily needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Peace Lily may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Peace Lily after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "ZZ Plant",
+        "image": "/assets/zz_plant.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "ZZ plants have survived 42 million years of plant pathogens, pests, and climate change. Their resilience and ability to tolerate water stress and low light has elevated them to international horticultural importance! Out of 15 plants tested, the ZZ plant was the best at absorbing and removing out of the air a major component found in gasoline. ⛽️",
+        "taxonomy": {
+            "scientificName": "Zamioculcas zamiifolia",
+            "genus": "Zamioculcas",
+            "family": "Araceae",
+            "order": "Alismatales"
+        },
+        "alsoKnownAs": [
+            "Zanzibar gem, Zuzu plant, Aroid Palm, Eternity Plant, Emerald Palm, ZZ Black Queen, Super Nova ZZ, Chameleon ZZ Plant and Zz Plant 'black Queen'"
+        ],
+        "care": {
+            "water": {
+                "frequency": "ZZ Plant needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 6 feet from a south-facing window to ensure it receives enough light to survive 💪.",
+                "tolerance": "ZZ Plant can tolerate being far from a window and light source."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your ZZ plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "Chinese Money Plant",
+        "image": "/assets/chineseMoney_plant.webp",
+        "tags": ["Fast grower", "Easy to propagate"],
+        "about": "The Chinese money plant was shared through cuttings and grown as a houseplant for 20 years before it was known or studied by British botanists! Pilea peperomioides was first collected in 1906 in the Tsangshan mountain range, which rises to almost 14,000 feet altitude just west of the ancient city of Dali in western Yunnan, China. ⛰ Later, while hardly known to Western scientific communities, the species was grown in thousands of private European homes as off-shoots passed from one person to another. 🤝",
+        "taxonomy": {
+            "scientificName": "Pilea peperomioides",
+            "genus": "Pilea",
+            "family": "Urticaceae",
+            "order": "Rosales"
+        },
+        "alsoKnownAs": [
+            "Pancake Plant, UFO plant, Lefse Plant, Missionary Plant, Bender Plant and Mirror Grass"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Chinese Money Plant needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Chinese Money Plant may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Chinese Money Plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "Fiddle Leaf Fig",
+        "image": "/assets/fiddle_leaf.webp",
+        "tags": ["Large, lush leaves", "Survivor"],
+        "about": "The fiddle leaf fig is a tree from Central and West Africa. The species name, lyrata, refers to the leaves’ shape of a lyre, a small string instrument played in Ancient Greece. The plant has a uniquely and mutually beneficial relationship with specific kinds of wasps. In fact, every plant in the Ficus genus has a unique wasp species which will lay its eggs in the fruits of only its favorite species! 🐝",
+        "taxonomy": {
+            "scientificName": "Ficus lyrata",
+            "genus": "Ficus",
+            "family": "Moraceae",
+            "order": "Rosales"
+        },
+        "alsoKnownAs": [
+            "Ficus"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Fiddle Leaf Fig needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Fiddle Leaf Fig love being close to bright, sunny windows 😎. Fiddle Leaf Fig does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Fiddle Leaf Fig after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "Money Tree",
+        "image": "/assets/money_tree.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "The money tree is native to the tropics and thrives near wetlands and swamps. They have extensive edible and medicinal properties and are used in Central America to treat kidney disease, urinary problems, and skin conditions like rashes and sores. 🤒 The amount of oil in money tree seeds is almost double the amount found in soybeans, one of the most widely grown sources of oil. And last but definitely most tasty: the edible seeds of this plant taste like peanuts when raw, and like chestnuts when roasted! 🥜",
+        "taxonomy": {
+            "scientificName": "Pachira aquatica",
+            "genus": "Pachira",
+            "family": "Malvaceae",
+            "order": "Malvales"
+        },
+        "alsoKnownAs": [
+            "Mini Money Tree, Money Tree Bonsai, Alabar chestnut, French Peanut, Guiana Chestnut, Provision Tree, Saba nut, Monguba, Pumpo and Guiana Chestnut"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Money Tree needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Money Tree may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Money Tree after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "Pearl Echeveria",
+        "image": "/assets/pearl.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "There are hundreds of plants belonging to the Echeveria genus, each with its own unique colors and patterns.The wild species are native to Central America and were named after the botanical illustrator Atanasio Echeverría y Godoy. They're super easy to grow as long as they get lots of sunlight. ☀️ They can be easily propagated by stem or leaf, making it easy to catch 'em all!",
+        "taxonomy": {
+            "scientificName": "Echeveria elegans",
+            "genus": "Echeveria",
+            "family": "Crassulaceae",
+            "order": "Saxifragales"
+        },
+        "alsoKnownAs": [
+            "Hens and Chicks, White Mexican Rose, Mexican Gem, Mexican Snowball, Succulent, Lone Star, Echeveria 'Angel Kissed', Echeveria Angel Kissed, Raspberry Ice, Ruby slippers, Red Crystal Sugar, Snow Angel Jelly Heart, Queen butterfly, Echeveria, Echeveria Mexican Snowball, Mexicsn Snowball, White Farm, Echeveria White Farm and Korean White FarmHens and Chicks, White Mexican Rose, Mexican Gem, Mexican Snowball, Succulent, Lone Star, Echeveria 'Angel Kissed', Echeveria Angel Kissed, Raspberry Ice, Ruby slippers, Red Crystal Sugar, Snow Angel Jelly Heart, Queen butterfly, Echeveria, Echeveria Mexican Snowball, Mexicsn Snowball, White Farm, Echeveria White Farm and Korean White Farm"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Pearl Echeveria needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Pearl Echeveria love being close to bright, sunny windows 😎. Pearl Echeveria does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Pearl Echeveria after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "Zebra Plant",
+        "image": "/assets/zebra_plant.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "These tiny succulents are native to Southern Africa, but now grow in homes around the world! Since they're adapted to harsh, dry cliamtes, their succulent leaves store water during the dry season. They also use a special form of photosynthesis that helps them retain water by only exchanging gases at night! 🌌",
+        "taxonomy": {
+            "scientificName": "Haworthiopsis attenuata",
+            "genus": "Haworthiopsis",
+            "family": "Asphodelaceae",
+            "order": "Asparagales"
+        },
+        "alsoKnownAs": [
+            "Hawthoria attenuata"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Zebra Plant needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Zebra Plant may have difficulty thriving, and will drop leaves 🍃, without ample sunlight.."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Zebra plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "Parlour Palm",
+        "image": "/assets/parlour_palm.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "Did you know the genus name Chamaedorea comes from the Ancient Greek roots meaning 'gift on the ground'? These small palms max out at 20ft/6m tall so their fruits were always easy to grab. They're native to the tropical Americas and these days they're commonly found as houseplants around the world!",
+        "taxonomy": {
+            "scientificName": "Chamaedorea elegans",
+            "genus": "Chamaedorea",
+            "family": "Arecaceae",
+            "order": "Arecales"
+        },
+        "alsoKnownAs": [
+            "Neanthe Bella Palm"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Parlour Palm needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Parlour Palm may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Parlour Palm after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 14,
+        "name": "Rubber Plant",
+        "image": "/assets/rubber_plant.webp",
+        "tags": ["Large, lush leaves", "Survivor"],
+        "about": "Ficus elastica, more commonly known as the rubber tree, has a white, milky latex that is a source of natural rubber. They’ve also been shown to have excellent antimicrobial and antioxidant properties. The aerial roots of the rubber tree have been used to create incredible living bridges in India. The bridges get stronger over time as the roots slowly fuse together, and some are over a hundred years old! 🌉",
+        "taxonomy": {
+            "scientificName": "Ficus elastica",
+            "genus": "Ficus",
+            "family": "Moraceae",
+            "order": "Rosales"
+        },
+        "alsoKnownAs": [
+            "Rubber Tree, Rubber Fig, Rubber Bush, Indian Rubber Bush, Indian Rubber Tree, Chroma Tineke and chroma chloe"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Rubber Plant needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Rubber Plant love being close to bright, sunny windows 😎. Rubber Plant does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Rubber plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": "Tradescantia Zebrina",
+        "image": "/assets/zebrina.webp",
+        "tags": ["Fast grower", "Easy to propagate"],
+        "about": "Tradescantia zebrina is an exceptionally easy plant to care for and rewards growers with delightful white and purple blossoms. Their leaves have characteristic stripes, which is where they get the name Zebrina! They are extremely easy to propagate by stem and one plant can give rise to dozens of new ones, which makes them great for sharing. 🤝 As houseplants they often trail, but will also creep along the ground if grown outdoors. Their succulent leaves make them sensitive to frost, so be sure to bring them indoors if your winter temperatures dip below freezing. ❄️",
+        "taxonomy": {
+            "scientificName": "Tradescantia zebrina",
+            "genus": "Tradescantia",
+            "family": "Commelinaceae",
+            "order": "Commelinales"
+        },
+        "alsoKnownAs": [
+            "Spiderwort, Inchplant, Tradescantia pendula, Zebrina pendula, Wandering Dude, Quadricolor, discolor, Spiderwort (Violet Hill), Tradescantia Zebrina (Violet Hill) and Inch plant"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Tradescantia Zebrina needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Tradescantia Zebrina may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Tradescantia Zebrina after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": "Dieffenbachia",
+        "image": "/assets/dieffenbachia.webp",
+        "tags": ["Large, lush leaves", "Survivor"],
+        "about": "Dieffenbachia was cultivated in England before 1759 and upper Amazon indigenous groups are known to have used their calcium oxalates to make poison arrows. Dieffenbachia flowers can generate large amounts of excess heat which botanists believe attracts potential pollinators to the flower's warmth. 🐝",
+        "taxonomy": {
+            "scientificName": "Dieffenbachia seguine",
+            "genus": "Dieffenbachia",
+            "family": "Araceae",
+            "order": "Alismatales"
+        },
+        "alsoKnownAs": [
+            "Dumb Cane 'Mars' and Dumbcant"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Dieffenbachia needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 6 feet from a south-facing window to ensure it receives enough light to survive 💪.",
+                "tolerance": "Dieffenbachia can tolerate being far from a window and light source."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Dieffenbachia after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 17,
+        "name": "String of Pearls",
+        "image": "/assets/stringPearls.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "String of pearls evolved their signature shape as an adaptation to store water in dry environments. In place of leaves, cells in the green pearls perform photosynthesis to feed the plant. Translucent crescents act like windows to allow sunlight to reach cells on the inside of the pearl and increase their ability to capture the sun! 🪟☀️",
+        "taxonomy": {
+            "scientificName": "Curio rowleyanus",
+            "genus": "Curio",
+            "family": "Asteraceae",
+            "order": "Asterales"
+        },
+        "alsoKnownAs": [
+            "Senecio rowleyanus and String of Tears"
+        ],
+        "care": {
+            "water": {
+                "frequency": "String of Pearls needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "String of Pearls love being close to bright, sunny windows 😎. String of Pearls does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your String of Pearls after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 18,
+        "name": "Lipstick Echeveria",
+        "image": "/assets/lipstick.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "There are hundreds of plants belonging to the Echeveria genus, each with its own unique colors and patterns.The wild species are native to Central America and were named after the botanical illustrator Atanasio Echeverría y Godoy. They're super easy to grow as long as they get lots of sunlight. ☀️ They can be easily propagated by stem or leaf, making it easy to catch 'em all!",
+        "taxonomy": {
+            "scientificName": "Echeveria agavoides",
+            "genus": "Echeveria",
+            "family": "Crassulaceae",
+            "order": "Saxifragales"
+        },
+        "alsoKnownAs": [
+            "Molded Wax Agave, Echeveria 'Taurus', molded wax, Robin, Moon Stone, Moonstone, Echeveria Miranda, Echeveria 'Love's embers', Love's Embers, Echeveria 'Christmas', Echeveria Agavoides 'Blue Dragon' and 'Cayenne'"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Lipstick Echeveria needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Lipstick Echeveria love being close to bright, sunny windows 😎. Lipstick Echeveria does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Lipstick Echeveria after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 19,
+        "name": "Arrowhead Plant",
+        "image": "/assets/arrowhead_plant.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "Syngonium podophyllum is a popular, easy-to-care-for houseplant with beautiful arrowhead shaped leaves. You’ll often see these plants grown in their juvenile stage, but given something to climb on and abundant sunlight you may see them mature into their adult stage! The leaf shape changes as they mature and may even appear to split into three individual leaves. In the wild they can climb up to 65 feet tall. Be sure to handle them with care, as their sap contains oxalic acid which can be very irritating to the skin and eyes. 👀",
+        "taxonomy": {
+            "scientificName": "Syngonium podophyllum",
+            "genus": "Syngonium",
+            "family": "Araceae",
+            "order": "Alismatales"
+        },
+        "alsoKnownAs": [
+            "Arrowhead Vine, Five Fingers, Goosefoot, Arrowhead Philodendron, Arrowhead Plant, Nephthytis, African Evergreen, American Evergreen, Berry Allusion, Syngonium Strawberry Ice, Syngonium Confetti, Syngonium Milk Confetti, Syngonium Neon Allusion, Red Heart Syngonium, three kings, Exotic Allusion, Berry Allusion Arrowhead Plant, Silver Pearl, Syngonium Silver Pearl, Maria Allusion Arrowhead, Pink Blitz, Syngonium Pink Blitz, Pink Beauty, Syngonium T24, Syngonium White Butterfly, Maya Red, White Butterfly Arrowhead Plant, Syngonium Batik, Pink Perfection, Pink Arrowhead, arrowhead wendlandii silver goose, 'Pink Allusion' Arrowhead Plant, 'Pink allusion' Arrowhead, Syngonium Three Kings, Syngonium Merry Maria, Syngonium Maria, Champaign Reign Syngonium, Merry Maria, Maria, Syngonium Podophyllum Maria, Arrowhead Plant 'maria allusion', Mint Arrow Head, Mini Pixie, Arrowhead White Butterfly and Champaign Reign"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Arrowhead Plant needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 6 feet from a south-facing window to ensure it receives enough light to survive 💪.",
+                "tolerance": "Arrowhead Plant can tolerate being far from a window and light source."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Arrowhead Plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 20,
+        "name": "Polka Dot Plant",
+        "image": "/assets/polkaDot.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "The polka dot plant is a small, charismatic houseplant that can be found in a variety of colors ranging from white, to pink, red, and purple. With excellent care, you may be able to get them to blossom! They produce delightful small pink flowers when given enough sunlight. 🌸",
+        "taxonomy": {
+            "scientificName": "Hypoestes phyllostachya",
+            "genus": "Hypoestes",
+            "family": "Acanthaceae",
+            "order": "Lamiales"
+        },
+        
+        "care": {
+            "water": {
+                "frequency": "Polka Dot Plant needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Polka Dot Plant may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Polka Dot Plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 21,
+        "name": "Dragon Tree",
+        "image": "/assets/dragon.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "Did you know the genus name Dracaena comes from the Greek for ‘female dragon’? Some plants in this genus have thick, red resin which was reminiscent of dragon blood! 🐲 Dracaenas are native to Africa, Asia, and northern Australia, and are known for being super easy to care for. Some species can go months without water, and many can grow well in low sunlight.",
+        "taxonomy": {
+            "scientificName": "Dracaena reflexa var. angustifolia",
+            "genus": "Dracaena",
+            "family": "Asparagaceae",
+            "order": "Asparagales"
+        },
+        "alsoKnownAs": [
+            "Madagasgar Dragon, Aron and Dracaena reflexa var. angustifolia"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Dragon Tree needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 6 feet from a south-facing window to ensure it receives enough light to survive 💪.",
+                "tolerance": "Dragon Tree can tolerate being far from a window and light source."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Dragon Tree after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 22,
+        "name": "False Christmas Cactus",
+        "image": "/assets/falseCactus.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "Did you know plants in the Schlumbergera genus are actually leafless? Instead of leaves, they use modified stems to capture sunlight! Unlike the Easter cactus, this species flowers in the later autumn or winter. They also have pointed wings at the corners, where its counterpart has more rounded edges. In the wild, they are epiphytes, meaning they grow on tree branches or rocks! 🌳 🪨",
+        "taxonomy": {
+            "scientificName": "Schlumbergera truncata",
+            "genus": "Schlumbergera",
+            "family": "Cactaceae",
+            "order": "Caryophyllales"
+        },
+        "alsoKnownAs": [
+            "Holiday Cactus, Crab Cactus, Thanksgiving Cactus and False Christmas Cactus 'Thanksgiving'"
+        ],
+        "care": {
+            "water": {
+                "frequency": "False Christmas Cactus needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "False Christmas Cactus may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your False Christmas Cactus after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 23,
+        "name": "Moon Cactus",
+        "image": "/assets/moonCactus.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "Chin Cactus, Plaid Cactus, Rose Plaid Cactus and Britton & Rose Cactus",
+        "taxonomy": {
+            "scientificName": "Gymnocalycium mihanovichii",
+            "genus": "Gymnocalycium",
+            "family": "Cactaceae",
+            "order": "Caryophyllales"
+        },
+        "care": {
+            "water": {
+                "frequency": "Moon Cactus needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Moon Cactus love being close to bright, sunny windows 😎. Moon Cactus does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Moon Cactus after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 24,
+        "name": "Boston fern",
+        "image": "/assets/bostonFern.webp",
+        "tags": ["Large, lush leaves", "Survivor"],
+        "about": "Nephrolepis exaltata, known as the sword fern or Boston fern, is a species of fern in the family Nephrolepidaceae. It is native to the Americas. This evergreen plant can reach as high as 40–90 centimetres, and in extreme cases up to 1.5 metres.",
+        "taxonomy": {
+            "scientificName": "Nephrolepis exaltata",
+            "genus": "Nephrolepis",
+            "family": "Nephrolepidaceae",
+            "order": "Polypodiales"
+        },
+        "alsoKnownAs": [
+            "Sword Fern, Green Fantasy Fern, Fluffy Ruffle Fern, Boston Fern 'Fluffy Ruffles Fern' and Twirly Whirly Fern"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Boston Fern needs 0.8 cups of water every 7 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 6 feet from a south-facing window to ensure it receives enough light to survive 💪.",
+                "tolerance": "Boston Fern can tolerate being far from a window and light source."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Boston Fern after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 25,
+        "name": "Ghost Plant",
+        "image": "/assets/ghost_plant.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "Ghost Plant is a super popular houseplant 🌿 that is isn’t challenging to grow and needs very little water to thrive. They do best in long-lasting, direct light ☀️ and should be less than 1 foot from a window. Plant parents describe this plant as being a survivor and a fast grower with a whopping 39673 being grown with Greg around the world. Check out the reviews below for more details!🌟 Ghost Plant likes soil that is extremely well-draining. Your plant shouldn't need added fertilizers if you repot each time it doubles in size. Ghost Plant belongs to the Graptopetalum genus, and is native to Mexico.",
+        "taxonomy": {
+            "scientificName": "Graptopetalum paraguayense",
+            "genus": "Graptopetalum",
+            "family": "Crassulaceae",
+            "order": "Saxifragales"
+        },
+        "alsoKnownAs": [
+            "Mother-of-Pearl Plant, Leatherpetal and Graptopetalum paraguayense 'Purple Delight'"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Ghost Plant needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Ghost Plant love being close to bright, sunny windows 😎. Ghost Plant does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Ghost Plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 26,
+        "name": "Nerve Plant",
+        "image": "/assets/nerve_plant.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "The nerve plant is known for its striking, colored veins and powerful ability to cure headaches and snakebites. Its veins come in a variety of colors, including white, pink, and red. This dramatic plant will easily wilt when dry, but quickly recovers once watered. In its natural habitat, nerve plants grow as a ground cover in Ecuador and Peru and are used by indigenous peoples to give strength to their hunting dogs. 🐕",
+        "taxonomy": {
+            "scientificName": "Fittonia albivenis",
+            "genus": "Fittonia",
+            "family": "Acanthaceae",
+            "order": "Lamiales"
+        },
+        "alsoKnownAs": [
+            "Mosaic Plant, Painted Net Leaf, Fittonia argyroneura, Fittonia verschaffeltii, Nerve Plant 'Frankie', Fittonia Frankie Nerve Plant, Nerve Plant 'ruby red', Nerve Plant 'mini white', Zalm Ruby Lime, Zalm Ruby Lime Nerve Plant, White Tiger Nerve Plant, 'White Tiger' Nerve Plant and Skelton Primetime"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Nerve Plant needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Nerve Plant may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Nerve Plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 27,
+        "name": "Venus Fly Trap",
+        "image": "/assets/venusFlyTrap.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "The Venus Flytrap is a carnivorous plant native to North and South Carolina. They typically grow in swampy regions which are low in nitrogen (and essential nutrient for plant growth) and evolved carnivory as a clever solution. Their traps are triggered by small hairs and the closing of their traps is one of the fastest momevents among all plants! Their traps often die off after trapping and digesting prey, so be careful not to trigger them — leave those traps for the bugs 🐜!",
+        "taxonomy": {
+            "scientificName": "Dionaea muscipula",
+            "genus": "Dionaea",
+            "family": "Droseraceae",
+            "order": "Caryophyllales"
+        },
+        "alsoKnownAs": [
+            "Red Piranha and Meadow Clams"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Venus Fly Trap needs 0.8 cups of water every 7 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Venus Fly Trap love being close to bright, sunny windows 😎. Venus Fly Trap does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Venus Fly Trap after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 28,
+        "name": "Blushing Bride Air Plant",
+        "image": "/assets/air_plant.webp",
+        "tags": ["Survivor"],
+        "about": "Tillandsia ionantha, the air plant, is a species of plant in the genus Tillandsia. This species is native to Central America and Mexico. It is also reportedly naturalized in Broward County, Florida, United States.",
+        "taxonomy": {
+            "scientificName": "Tillandsia ionantha",
+            "genus": "Tillandsia",
+            "family": "Bromeliaceae",
+            "order": "Poales"
+        },
+        "alsoKnownAs": [
+            "Sky Plant, Air plant, Airplant, ionantha peach, Cobalt ionantha airplant, Coral ionantha airplant, Ionantha Peanut and Tillandsia Air Plant"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Blushing Bride Air Plant needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Blushing Bride Air Plant love being close to bright, sunny windows 😎. Blushing Bride Air Plant does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Blushing Bride Air Plant after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 29,
+        "name": "Elephant Bush",
+        "image": "/assets/elephantBush.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "Portulacaria afra (known as elephant bush, porkbush, purslane tree, dwarf jade and spekboom in Afrikaans) is a small-leaved succulent plant found in South Africa. These succulents commonly have a reddish stem and green leaves, but a variegated cultivar is often seen in cultivation. They are simple to care for and make easy houseplants for a sunny location. In frost-free regions they may be used in outdoor landscaping.",
+        "taxonomy": {
+            "scientificName": "Portulacaria afra",
+            "genus": "Portulacaria",
+            "family": "Didiereaceae",
+            "order": "Caryophyllales"
+        },
+        "alsoKnownAs": [
+            "Elephant Food, Dwarf Jade Plant, Porkbush, Spekboom and Little Jade"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Elephant Bush needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 1ft from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Elephant Bush love being close to bright, sunny windows 😎. Elephant Bush does not tolerate low-light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Elephant Bush after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 30,
+        "name": "Painter's Palette",
+        "image": "/assets/paintersPalette.webp",
+        "tags": ["Large, lush leaves", "Survivor"],
+        "about": "The name Anthurium comes from the Greek anthos + oura, meaning 'flower tail'. This funny name refers to their flowers which grow on a spike (called a spadix) above a large, colored leaf (called a spathe). Their bright colored spathes attract pollinators and give them their other names such as the Flamingo Flower or Painter's Palette 🦩 🎨!",
+        "taxonomy": {
+            "scientificName": "Anthurium andraeanum",
+            "genus": "Anthurium",
+            "family": "Araceae",
+            "order": "Alismatales"
+        },
+        "alsoKnownAs": [
+            "Mother-of-Pearl Plant, Leatherpetal and Graptopetalum paraguayense 'Purple Delight'"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Painter's Palette needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Painter's Palette may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Painter's Palette after it doubles in size or once a year—whichever comes first."
+            }
+        }
+    },
+    {
+        "id": 31,
+        "name": "Lucky Bamboo",
+        "image": "/assets/luckyBamboo.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "Did you know the genus name Dracaena comes from the Greek for ‘female dragon’? Some plants in this genus have thick, red resin which was reminiscent of dragon blood! 🐲 Dracaenas are native to Africa, Asia, and northern Australia, and are known for being super easy to care for. Some species can go months without water, and many can grow well in low sunlight.",
+        "taxonomy": {
+            "scientificName": "Dracaena braunii",
+            "genus": "Dracaena",
+            "family": "Asparagaceae",
+            "order": "Asparagales"
+        },
+        "alsoKnownAs": [
+            "Braun's Dracaena"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Lucky Bamboo needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Lucky Bamboo can tolerate being far from a window and light source.",
+                "tolerance": "Place it less than 6 feet from a south-facing window to ensure it receives enough light to survive 💪."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Lucky Bamboo after it doubles in size or once a year—whichever comes first."
+            }
+        } 
+    },
+    {
+        "id": 32,
+        "name": "Gold Dust Croton",
+        "image": "/assets/goldDust.webp",
+        "tags": ["Large, lush leaves", "Survivor"],
+        "about": "These sparkly specimens are a great choice for anyone looking to light up a room. They require abundant light to maintain their bright colors, and new leaves may loose their sparkle over time in low light so be sure they’re able to soak up the sun! ☀️ All parts of this plant are toxic, so keep them well out of reach of pets and children!",
+        "taxonomy": {
+            "scientificName": "Codiaeum variegatum",
+            "genus": "Codiaeum",
+            "family": "Euphorbiaceae",
+            "order": "Malpighiales"
+        },
+        "alsoKnownAs": [
+            "Sun-Spot Croton",
+            "Variegated Croton",
+            "Bush on Fire Croton"
+        ],
+        "care": {
+            "water": {
+                "frequency": "0.8 cups every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Bright, sunny windows (less than 1ft from south-facing window).",
+                "tolerance": "Does not tolerate low light."
+            },
+            "nutrients": {
+                "fertilization": "Repot after doubling in size or once a year.",
+                "notes": "Most potting soils have ample nutrients initially."
+            }
+        } 
+    },
+    {
+        "id": 33,
+        "name": "Jelly Bean Plant",
+        "image": "/assets/jelly_bean.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "Plants in the Sedum genus are super diverse, and are native to regions all over the world. Horticulturalists have bred them to create even more variietes that come in all manner of shapes and colors! Their succulent leaves help store water, and they are incredibly easy to propagate. Just gently pop off one of the leaves and with water and sunlight it will grow into a whole new plant. 🪴",
+        "taxonomy": {
+            "scientificName": "Sedum pachyphyllum",
+            "genus": "Sedum",
+            "family": "Crassulaceae",
+            "order": "Saxifragales"
+        },
+        "alsoKnownAs": [
+            "Succulent Beans, Silver Jelly Beans, Blue Jelly Bean and Dedos"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Jelly Bean Plant needs 0.8 cups of water every 12 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Bright, sunny windows (less than 1ft from south-facing window).",
+                "tolerance": "Jelly Bean Plant love being close to bright, sunny windows 😎. Does not tolerate low light."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Jelly Bean Plant after it doubles in size or once a year—whichever comes first."
+            }
+        } 
+    },
+    {
+        "id": 34,
+        "name": "Emerald Ripple Peperomia",
+        "image": "/assets/emerald.webp",
+        "tags": ["Fast grower", "Survivor"],
+        "about": "This species of Peperomia is known for its uniquely textured leaves and dark, moody coloring. The fruits of Peperomia plants are very sticky, so they can be easily picked up by animals passing by. Their fruits and seeds have traveled one of the longest distances ever recorded for a plant, over 3000 miles to an island in the middle of the Atlantic ocean, all while stuck to a bird's feet 🦅. They're very closely related to the same plants that produce black pepper, and their fruits have a similar peppery taste!",
+        "taxonomy": {
+            "scientificName": "Peperomia caperata",
+            "genus": "Peperomia",
+            "family": "Piperaceae",
+            "order": "Piperales"
+        },
+        "alsoKnownAs": [
+            "Peperomia Quito"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Emerald Ripple Peperomia needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Emerald Ripple Peperomia may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Emerald Ripple Peperomia after it doubles in size or once a year—whichever comes first."
+            }
+        } 
+    },
+    {
+        "id": 35,
+        "name": "Chinese Hibiscus",
+        "image": "/assets/hibiscus.webp",
+        "tags": ["Large, lush leaves", "Blooms easily"],
+        "about": "Chinese hibiscus is a sweet, astringent, cooling herb that checks bleeding, soothes irritated tissues and relaxes spasms. Chinese hibiscus is a large shrub that is a member of the Malvaceae (mallow) family. It is native to Asia. It grows 4 to 10 feet high and 5 to 8 feet wide. Hibiscus rosa-sinensis prefer full sun but will tolerate light shade. The more shade the plant gets, the fewer and likely smaller flowers it will produce.",
+        "taxonomy": {
+            "scientificName": "Hibiscus rosa-sinensis",
+            "genus": "Hibiscus",
+            "family": "Malvaceae",
+            "order": "Malvales"
+        },
+        "alsoKnownAs": [
+            "China Rose, Hawaiian Hibiscus, Rose Mallow, Double Peach Hibiscus, Snow Queen Hibiscus, Tropical Hibiscus, Hollywood Hibiscus, First lady Hibiscus and Pink Sweet Cajun Hibiscus"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Chinese Hibiscus needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Bright, sunny windows (less than 1ft from south-facing window).",
+                "tolerance": "Chinese Hibiscus love being close to bright, sunny windows 😎. Does not tolerate low light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Chinese Hibiscus after it doubles in size or once a year—whichever comes first."
+            }
+        } 
+    },
+    {
+        "id": 36,
+        "name": "Lavender",
+        "image": "/assets/lavender.webp",
+        "tags": ["Fast grower", "Blooms easily"],
+        "about": "Found in anything from soaps to lattes, lavender is known worldwide for its gentle aroma and ability to lull people to sleep 💤. The essential oils contained in their blossoms can be toxic in extremely large doses, but is recognized as generally safe for consumption (GRAS) by the FDA. They're used in top kitchens around the world as pairings for goat cheese, tea, and as garnishes. We're getting sleepy just thinking about the smell 😴!",
+        "taxonomy": {
+            "scientificName": "Lavandula angustifolia",
+            "genus": "Lavandula",
+            "family": "Lamiaceae",
+            "order": "Lamiales"
+        },
+        "alsoKnownAs": [
+            "English Lavender, Narrow-Leaved Lavender, Lavender Tree"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Lavender needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Bright, sunny windows (less than 1ft from south-facing window).",
+                "tolerance": "Lavender love being close to bright, sunny windows 😎. Does not tolerate low light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Lavender after it doubles in size or once a year—whichever comes first."
+            }
+        } 
+    },
+    {
+        "id": 37,
+        "name": "Common Sunflower",
+        "image": "/assets/sunflower.webp",
+        "tags": ["Survivor", "Blooms easily"],
+        "about": "Common Sunflower is a super popular houseplant 🌿 that is a fun challenge to grow and needs regular watering to thrive. They do best in long-lasting, direct light ☀️ and should be less than 1 foot from a window. Plant parents describe this plant as a fast grower and being a survivor with a whopping 4499 being grown with Greg around the world. Check out the reviews below for more details!🌟 Common Sunflower likes soil that is well draining. Your plant shouldn't need added fertilizers if you repot each time it doubles in size.",
+        "taxonomy": {
+            "scientificName": "Helianthus annuus",
+            "genus": "Helianthus",
+            "family": "Asteraceae",
+            "order": "Asterales"
+        },
+        "alsoKnownAs": [
+            "Sunflower and African Eclipse"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Common Sunflower needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Bright, sunny windows (less than 1ft from south-facing window).",
+                "tolerance": "Common Sunflower love being close to bright, sunny windows 😎. Does not tolerate low light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Common Sunflower after it doubles in size or once a year—whichever comes first."
+            }
+        } 
+    },
+    {
+        "id": 38,
+        "name": "Bright Eyes",
+        "image": "/assets/bright_eyes.jpg",
+        "tags": ["Large, lush leaves", "Blooms easily"],
+        "about": "Madagascar periwinkle is an evergreen, erect-to-spreading perennial that grows to 4 feet tall. It blooms all summer from July through September, only stopping at frost. It is resistant to deer and rabbits. It can be used as a ground cover in beds and for bedding and borders in drought tolerant gardens, butterfly gardens and recreational play areas.",
+        "taxonomy": {
+            "scientificName": "Catharanthus roseus",
+            "genus": "Catharanthus",
+            "family": "Apocynaceae",
+            "order": "Gentianales"
+        },
+        "alsoKnownAs": [
+            "Cape periwinkle, Graveyard plant, Madagascar periwinkle, Old maid, Pink periwinkle and Rose periwinkle"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Bright Eyes needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Bright, sunny windows (less than 1ft from south-facing window).",
+                "tolerance": "Bright Eyes love being close to bright, sunny windows 😎. Does not tolerate low light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Bright Eyes after it doubles in size or once a year—whichever comes first."
+            }
+        } 
+    },
+    {
+        "id": 39,
+        "name": "Marigold",
+        "image": "/assets/marigold.webp",
+        "tags": ["Fast grower", "Blooms easily"],
+        "about": "Marigolds are very easy to grow and grow fast, which makes them great for children or gardening newbies. Marigolds need full sun all day to provide blooms all season long. Three common types are French, African, and Signet. Marigolds do not thrive during winter since they are sensitive to cold and frost. Marigold flowers have lutein which is good for our eyes. Marigold flowers have antibacterial and antiviral substances that give us health benefits.",
+        "taxonomy": {
+            "scientificName": "Tagetes erecta",
+            "genus": "Tagetes",
+            "family": "Asteraceae",
+            "order": "Asterales"
+        },
+        "alsoKnownAs": [
+            "Aztec Marigold, American Marigold, Big Marigold, Marigold and 'American Marigold'"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Marigold needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Bright, sunny windows (less than 1ft from south-facing window).",
+                "tolerance": "Marigold love being close to bright, sunny windows 😎. Does not tolerate low light 🚫."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Marigold after it doubles in size or once a year—whichever comes first."
+            }
+        } 
+    },
+    {
+        "id": 40,
+        "name": "Moon Orchid",
+        "image": "/assets/moon.webp",
+        "tags": ["Survivor", "Blooms easily"],
+        "about": "Phalaenopsis orchids get their name from the Greek 'phalaina' meaning moth, as their flowers are thought to resemble moth or butterfly wings! 🦋 Once their flowers have blossomed, they will eventually die but the plant will live one and continue to produce new flower spikes throughout its life. Orchid flowers evolved to attract pollinators and ther unique shape helps keep insects safe while collecting and dispersing pollen! 🐝",
+        "taxonomy": {
+            "scientificName": "Phalaenopsis amabilis",
+            "genus": "Phalaenopsis",
+            "family": "Orchidaceae",
+            "order": "Asparagales"
+        },
+        "alsoKnownAs": [
+            "Anggrek bulan, Moth Orchid, Phalaenopsis Orchid and Bramble Orchid"
+        ],
+        "care": {
+            "water": {
+                "frequency": "Moon Orchid needs 0.8 cups of water every 9 days",
+                "notes": "When not in direct sunlight, potted in a 5.0” pot."
+            },
+            "light": {
+                "requirements": "Place it less than 3 feet from a south-facing window to maximize the potential for growth.",
+                "tolerance": "Moon Orchid may have difficulty thriving, and will drop leaves 🍃, without ample sunlight."
+            },
+            "nutrients": {
+                "fertilization": "Most potting soils come with ample nutrients which plants use to produce new growth. By the time your plant has depleted the nutrients in its soil it’s likely grown enough to need a larger pot anyway.",
+                "notes": "To replenish this plant's nutrients, repot your Moon Orchid after it doubles in size or once a year—whichever comes first."
+            }
+        } 
+    }
+]
+  
